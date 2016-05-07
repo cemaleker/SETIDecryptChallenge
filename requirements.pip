@@ -1,0 +1,11 @@
+decorator==4.0.9
+dict==0.0.5
+get==0.0.7
+numpy==1.11.0
+Pillow==3.2.0
+post==0.0.5
+public==0.0.0
+query-string==0.0.5
+requests==2.10.0
+scipy==0.17.0
+self==0.0.5
